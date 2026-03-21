@@ -320,20 +320,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpriteAnimator
   idle:
-    spritesheetTexture: {fileID: 2800000, guid: d073a6e02d7edba4f9f0faeec513c19c, type: 3}
+    spritesheetTexture: {fileID: 2800000, guid: 9f91ccc5ead9f424eb6e09ddeb58bf24, type: 3}
     frameRate: 34
   walk:
     spritesheetTexture: {fileID: 2800000, guid: bbb4fa72f119a82439c4e931636082f4, type: 3}
-    frameRate: 24
+    frameRate: 34
   run:
     spritesheetTexture: {fileID: 2800000, guid: 0d69fb485fe48ba4caa2c73894f9ee25, type: 3}
-    frameRate: 24
+    frameRate: 34
   jump:
     spritesheetTexture: {fileID: 2800000, guid: 7b7bde5beb508084bb66c962aaeaf71b, type: 3}
-    frameRate: 24
+    frameRate: 34
   attack:
     spritesheetTexture: {fileID: 2800000, guid: 7f59ee753c330b842b05e307021b55a4, type: 3}
-    frameRate: 24
+    frameRate: 34
   walkThreshold: 0.1
   runThreshold: 3
 --- !u!1 &519420028

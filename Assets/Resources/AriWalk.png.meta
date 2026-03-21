@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: aef0f2c3dd1147e4e8833f61da9fa74f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6640121781923313611
+    second: AriWalk_0
+  - first:
+      213: -8773031436499778278
+    second: AriWalk_1
+  - first:
+      213: 7552162363735344361
+    second: AriWalk_2
+  - first:
+      213: 7921073509464215752
+    second: AriWalk_3
+  - first:
+      213: -1069943783405105384
+    second: AriWalk_4
+  - first:
+      213: 4610836294531857323
+    second: AriWalk_5
+  - first:
+      213: 8559464655909526634
+    second: AriWalk_6
+  - first:
+      213: 3920658632195068234
+    second: AriWalk_7
+  - first:
+      213: 1173260414083696919
+    second: AriWalk_8
+  - first:
+      213: -2151357707119868364
+    second: AriWalk_9
+  - first:
+      213: 7826560178337134489
+    second: AriWalk_10
+  - first:
+      213: 5984392263332668989
+    second: AriWalk_11
+  - first:
+      213: 6656813323966486263
+    second: AriWalk_12
+  - first:
+      213: -8008435304495693904
+    second: AriWalk_13
+  - first:
+      213: 3014969233531976043
+    second: AriWalk_14
+  - first:
+      213: -1636550968129207719
+    second: AriWalk_15
+  - first:
+      213: 6339126159489554435
+    second: AriWalk_16
+  - first:
+      213: -8648834269795483415
+    second: AriWalk_17
+  - first:
+      213: 6037146281170644740
+    second: AriWalk_18
+  - first:
+      213: -2738122987406457274
+    second: AriWalk_19
+  - first:
+      213: 9145640198733552678
+    second: AriWalk_20
+  - first:
+      213: -6880438219744705697
+    second: AriWalk_21
+  - first:
+      213: -5025216256775979707
+    second: AriWalk_22
+  - first:
+      213: 1140944272400121386
+    second: AriWalk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AriWalk_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1917
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77fdc6493762c50800000000000000
+      internalID: 6640121781923313611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1916
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158818d36eef3680800000000000000
+      internalID: -8773031436499778278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1916
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4058028abaec860800000000000000
+      internalID: 7552162363735344361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1917
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01f53a36e4ded60800000000000000
+      internalID: 7921073509464215752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1917
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f408c3ccbc621f0800000000000000
+      internalID: -1069943783405105384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1917
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babbc0d3e2bfcff30800000000000000
+      internalID: 4610836294531857323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1917
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c9ffa21c359c670800000000000000
+      internalID: 8559464655909526634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_7
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1918
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a415e81e04af86630800000000000000
+      internalID: 3920658632195068234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1662
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7198c726122484010800000000000000
+      internalID: 1173260414083696919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1661
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43642525097d422e0800000000000000
+      internalID: -2151357707119868364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1661
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b00be3078d9c60800000000000000
+      internalID: 7826560178337134489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1661
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d362a8c8e05dc0350800000000000000
+      internalID: 5984392263332668989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_12
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1662
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f61c17e270c16c50800000000000000
+      internalID: 6656813323966486263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1663
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf36d465825cd090800000000000000
+      internalID: -8008435304495693904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_14
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1663
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b76d3b8257d920800000000000000
+      internalID: 3014969233531976043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_15
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1662
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95246d7b09dc949e0800000000000000
+      internalID: -1636550968129207719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1405
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d2cae7a919f750800000000000000
+      internalID: 6339126159489554435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1406
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e08d9b1e0b29f780800000000000000
+      internalID: -8648834269795483415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1405
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f2f3a7e8048c350800000000000000
+      internalID: 6037146281170644740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1404
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468e4076ab300ad0800000000000000
+      internalID: -2738122987406457274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_20
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1403
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cdb091e47dbee70800000000000000
+      internalID: 9145640198733552678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_21
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1403
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53881da4e5c380a0800000000000000
+      internalID: -6880438219744705697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_22
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1403
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d795f6078d24ab0800000000000000
+      internalID: -5025216256775979707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriWalk_23
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1405
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2efce055c275df00800000000000000
+      internalID: 1140944272400121386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AriWalk_0: 6640121781923313611
+      AriWalk_1: -8773031436499778278
+      AriWalk_10: 7826560178337134489
+      AriWalk_11: 5984392263332668989
+      AriWalk_12: 6656813323966486263
+      AriWalk_13: -8008435304495693904
+      AriWalk_14: 3014969233531976043
+      AriWalk_15: -1636550968129207719
+      AriWalk_16: 6339126159489554435
+      AriWalk_17: -8648834269795483415
+      AriWalk_18: 6037146281170644740
+      AriWalk_19: -2738122987406457274
+      AriWalk_2: 7552162363735344361
+      AriWalk_20: 9145640198733552678
+      AriWalk_21: -6880438219744705697
+      AriWalk_22: -5025216256775979707
+      AriWalk_23: 1140944272400121386
+      AriWalk_3: 7921073509464215752
+      AriWalk_4: -1069943783405105384
+      AriWalk_5: 4610836294531857323
+      AriWalk_6: 8559464655909526634
+      AriWalk_7: 3920658632195068234
+      AriWalk_8: 1173260414083696919
+      AriWalk_9: -2151357707119868364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

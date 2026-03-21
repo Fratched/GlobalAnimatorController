@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 180b6fbd81a0bc44dbe1731a4d4b8a7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8734253747499883371
+    second: AriIDle_0
+  - first:
+      213: -6799404782994249023
+    second: AriIDle_1
+  - first:
+      213: -1697181534226414359
+    second: AriIDle_2
+  - first:
+      213: 8052428119424024098
+    second: AriIDle_3
+  - first:
+      213: 532568789121902898
+    second: AriIDle_4
+  - first:
+      213: -5220073644438198254
+    second: AriIDle_5
+  - first:
+      213: -2718267281826706440
+    second: AriIDle_6
+  - first:
+      213: 5395492376837259040
+    second: AriIDle_7
+  - first:
+      213: 8062814451578702955
+    second: AriIDle_8
+  - first:
+      213: -9190802783420138230
+    second: AriIDle_9
+  - first:
+      213: -2570948789592504853
+    second: AriIDle_10
+  - first:
+      213: 1335696255585214848
+    second: AriIDle_11
+  - first:
+      213: 5530152534441451735
+    second: AriIDle_12
+  - first:
+      213: -4695165925121198799
+    second: AriIDle_13
+  - first:
+      213: 5073983028835448881
+    second: AriIDle_14
+  - first:
+      213: -356065477563937449
+    second: AriIDle_15
+  - first:
+      213: -4638739521833685195
+    second: AriIDle_16
+  - first:
+      213: -63691979827096233
+    second: AriIDle_17
+  - first:
+      213: 6732893032482293125
+    second: AriIDle_18
+  - first:
+      213: -5504642206887862422
+    second: AriIDle_19
+  - first:
+      213: 2493549979075411588
+    second: AriIDle_20
+  - first:
+      213: -3451078205456076757
+    second: AriIDle_21
+  - first:
+      213: -9167641463986510171
+    second: AriIDle_22
+  - first:
+      213: 7302822691105390934
+    second: AriIDle_23
+  - first:
+      213: 2188784472151544465
+    second: AriIDle_24
+  - first:
+      213: 6953596198379902415
+    second: AriIDle_25
+  - first:
+      213: 4408458336914219112
+    second: AriIDle_26
+  - first:
+      213: 8222173059153470378
+    second: AriIDle_27
+  - first:
+      213: 7843181518821411232
+    second: AriIDle_28
+  - first:
+      213: -2668516776363834861
+    second: AriIDle_29
+  - first:
+      213: 4353572689304815554
+    second: AriIDle_30
+  - first:
+      213: 5744413681129232817
+    second: AriIDle_31
+  - first:
+      213: -3595972499491117533
+    second: AriIDle_32
+  - first:
+      213: 3209592175235229302
+    second: AriIDle_33
+  - first:
+      213: -6964770957727442903
+    second: AriIDle_34
+  - first:
+      213: 815246837326037226
+    second: AriIDle_35
+  - first:
+      213: -5320574663608710159
+    second: AriIDle_36
+  - first:
+      213: 580132905956853954
+    second: AriIDle_37
+  - first:
+      213: -2158614304646930747
+    second: AriIDle_38
+  - first:
+      213: -1272814051821757288
+    second: AriIDle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AriIDle_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1917
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59425222e72b9c680800000000000000
+      internalID: -8734253747499883371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1917
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca2989ef59a3a1a0800000000000000
+      internalID: -6799404782994249023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1917
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4051df2666278e0800000000000000
+      internalID: -1697181534226414359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1917
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb2a506b8ffbf60800000000000000
+      internalID: 8052428119424024098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1917
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392216fd70146700800000000000000
+      internalID: 532568789121902898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_5
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1917
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218e1e17da29e87b0800000000000000
+      internalID: -5220073644438198254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_6
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1917
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb07262f46c64ad0800000000000000
+      internalID: -2718267281826706440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_7
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1917
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f76bdeab3a0ea40800000000000000
+      internalID: 5395492376837259040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1661
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c0c3c660fd4ef60800000000000000
+      internalID: 8062814451578702955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1661
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d329d3095b37080800000000000000
+      internalID: -9190802783420138230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1660
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be54e9482b7225cd0800000000000000
+      internalID: -2570948789592504853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1660
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081e9f9eaa8598210800000000000000
+      internalID: 1335696255585214848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_12
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1661
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0eb191e6c0fbc40800000000000000
+      internalID: 5530152534441451735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_13
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1661
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f1a7977b67deb0800000000000000
+      internalID: -4695165925121198799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_14
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1662
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138f81e7ea86a6640800000000000000
+      internalID: 5073983028835448881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_15
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1662
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d850da5500f0bf0800000000000000
+      internalID: -356065477563937449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1406
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa9836bf2ef9fb0800000000000000
+      internalID: -4638739521833685195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1406
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7555d575b78bd1ff0800000000000000
+      internalID: -63691979827096233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1407
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5854fc76a8a007d50800000000000000
+      internalID: 6732893032482293125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1407
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f93d2e3159b93b0800000000000000
+      internalID: -5504642206887862422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_20
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1407
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef87c9e7eda9220800000000000000
+      internalID: 2493549979075411588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_21
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1407
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20b2bf18ae4b10d0800000000000000
+      internalID: -3451078205456076757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_22
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1407
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a621f629aef5c080800000000000000
+      internalID: -9167641463986510171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_23
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1406
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651cff8ab86d85560800000000000000
+      internalID: 7302822691105390934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1150
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192db7871ef106e10800000000000000
+      internalID: 2188784472151544465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1150
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d0f396e2208060800000000000000
+      internalID: 6953596198379902415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1150
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a1ea108dfd2d30800000000000000
+      internalID: 4408458336914219112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_27
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1150
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa321a895d60b1270800000000000000
+      internalID: 8222173059153470378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_28
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1150
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a94242590498dc60800000000000000
+      internalID: 7843181518821411232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_29
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1150
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c9ab512687fad0800000000000000
+      internalID: -2668516776363834861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_30
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1149
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c70bd17b4ffa6c30800000000000000
+      internalID: 4353572689304815554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_31
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1149
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b91a9acec148bf40800000000000000
+      internalID: 5744413681129232817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 892
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32622c1601a881ec0800000000000000
+      internalID: -3595972499491117533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 892
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e4c60413ca8c20800000000000000
+      internalID: 3209592175235229302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 893
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d2b207b9285f90800000000000000
+      internalID: -6964770957727442903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 893
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0441fdda6505b00800000000000000
+      internalID: 815246837326037226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 893
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbc8a678858926b0800000000000000
+      internalID: -5320574663608710159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_37
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 893
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8c216edcb0d0800800000000000000
+      internalID: 580132905956853954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_38
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 893
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce517c0abf0b02e0800000000000000
+      internalID: -2158614304646930747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriIDle_39
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 892
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cd9001d5e065ee0800000000000000
+      internalID: -1272814051821757288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AriIDle_0: -8734253747499883371
+      AriIDle_1: -6799404782994249023
+      AriIDle_10: -2570948789592504853
+      AriIDle_11: 1335696255585214848
+      AriIDle_12: 5530152534441451735
+      AriIDle_13: -4695165925121198799
+      AriIDle_14: 5073983028835448881
+      AriIDle_15: -356065477563937449
+      AriIDle_16: -4638739521833685195
+      AriIDle_17: -63691979827096233
+      AriIDle_18: 6732893032482293125
+      AriIDle_19: -5504642206887862422
+      AriIDle_2: -1697181534226414359
+      AriIDle_20: 2493549979075411588
+      AriIDle_21: -3451078205456076757
+      AriIDle_22: -9167641463986510171
+      AriIDle_23: 7302822691105390934
+      AriIDle_24: 2188784472151544465
+      AriIDle_25: 6953596198379902415
+      AriIDle_26: 4408458336914219112
+      AriIDle_27: 8222173059153470378
+      AriIDle_28: 7843181518821411232
+      AriIDle_29: -2668516776363834861
+      AriIDle_3: 8052428119424024098
+      AriIDle_30: 4353572689304815554
+      AriIDle_31: 5744413681129232817
+      AriIDle_32: -3595972499491117533
+      AriIDle_33: 3209592175235229302
+      AriIDle_34: -6964770957727442903
+      AriIDle_35: 815246837326037226
+      AriIDle_36: -5320574663608710159
+      AriIDle_37: 580132905956853954
+      AriIDle_38: -2158614304646930747
+      AriIDle_39: -1272814051821757288
+      AriIDle_4: 532568789121902898
+      AriIDle_5: -5220073644438198254
+      AriIDle_6: -2718267281826706440
+      AriIDle_7: 5395492376837259040
+      AriIDle_8: 8062814451578702955
+      AriIDle_9: -9190802783420138230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

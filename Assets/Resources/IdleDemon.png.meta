@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 9f91ccc5ead9f424eb6e09ddeb58bf24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5619893184594137564
+    second: IdleDemon_0
+  - first:
+      213: 14252277560266627
+    second: IdleDemon_1
+  - first:
+      213: 5453829232138583796
+    second: IdleDemon_2
+  - first:
+      213: -6922575734075344290
+    second: IdleDemon_3
+  - first:
+      213: -62310969751033605
+    second: IdleDemon_4
+  - first:
+      213: -2222318073566514396
+    second: IdleDemon_5
+  - first:
+      213: 4351186229324291869
+    second: IdleDemon_6
+  - first:
+      213: 2623528927371211586
+    second: IdleDemon_7
+  - first:
+      213: -184507698403194643
+    second: IdleDemon_8
+  - first:
+      213: -864965630616513245
+    second: IdleDemon_9
+  - first:
+      213: -3174221343556939905
+    second: IdleDemon_10
+  - first:
+      213: 6245502402361977519
+    second: IdleDemon_11
+  - first:
+      213: 9210278709818081454
+    second: IdleDemon_12
+  - first:
+      213: 2376637770139312246
+    second: IdleDemon_13
+  - first:
+      213: 7891226488667066401
+    second: IdleDemon_14
+  - first:
+      213: 3291391572630699202
+    second: IdleDemon_15
+  - first:
+      213: 3491704334374449249
+    second: IdleDemon_16
+  - first:
+      213: -8432266631556447338
+    second: IdleDemon_17
+  - first:
+      213: 6228951660112360632
+    second: IdleDemon_18
+  - first:
+      213: -6384235348240473760
+    second: IdleDemon_19
+  - first:
+      213: -3228037382761443873
+    second: IdleDemon_20
+  - first:
+      213: -6677891159942842833
+    second: IdleDemon_21
+  - first:
+      213: -1989809885045646720
+    second: IdleDemon_22
+  - first:
+      213: 5170712707974323874
+    second: IdleDemon_23
+  - first:
+      213: -7552539275212182921
+    second: IdleDemon_24
+  - first:
+      213: 6609886702960547586
+    second: IdleDemon_25
+  - first:
+      213: 8482197457714177124
+    second: IdleDemon_26
+  - first:
+      213: 3839912926876014425
+    second: IdleDemon_27
+  - first:
+      213: -8758117278384311273
+    second: IdleDemon_28
+  - first:
+      213: 1808174221088629950
+    second: IdleDemon_29
+  - first:
+      213: -1864974689573741317
+    second: IdleDemon_30
+  - first:
+      213: 8395731987509290849
+    second: IdleDemon_31
+  - first:
+      213: 1957237316871592731
+    second: IdleDemon_32
+  - first:
+      213: 3834547432058468661
+    second: IdleDemon_33
+  - first:
+      213: 3052707224595609518
+    second: IdleDemon_34
+  - first:
+      213: 6776535605848968293
+    second: IdleDemon_35
+  - first:
+      213: 2651747046151847358
+    second: IdleDemon_36
+  - first:
+      213: -1575561915296450007
+    second: IdleDemon_37
+  - first:
+      213: 4216670255964652255
+    second: IdleDemon_38
+  - first:
+      213: 4581694568835204761
+    second: IdleDemon_39
+  - first:
+      213: -6527683232411550565
+    second: IdleDemon_40
+  - first:
+      213: 4642523039049814981
+    second: IdleDemon_41
+  - first:
+      213: 459916594019671338
+    second: IdleDemon_42
+  - first:
+      213: -415696569751223159
+    second: IdleDemon_43
+  - first:
+      213: -2265011754710046987
+    second: IdleDemon_44
+  - first:
+      213: -630658516213551988
+    second: IdleDemon_45
+  - first:
+      213: 5427749331730085711
+    second: IdleDemon_46
+  - first:
+      213: 5089059976484555593
+    second: IdleDemon_47
+  - first:
+      213: -5940588065674277828
+    second: IdleDemon_48
+  - first:
+      213: -445493967631976154
+    second: IdleDemon_49
+  - first:
+      213: 1437237590842973501
+    second: IdleDemon_50
+  - first:
+      213: -3823184242877786421
+    second: IdleDemon_51
+  - first:
+      213: -7273783021138221169
+    second: IdleDemon_52
+  - first:
+      213: -5083092217660842880
+    second: IdleDemon_53
+  - first:
+      213: -8204497233524132477
+    second: IdleDemon_54
+  - first:
+      213: 3943565120211199349
+    second: IdleDemon_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleDemon_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1919
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ea0a09ce02202b0800000000000000
+      internalID: -5619893184594137564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1919
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f4835fe52a23000800000000000000
+      internalID: 14252277560266627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1919
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef24f7ac4efab40800000000000000
+      internalID: 5453829232138583796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1919
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a33b71c021eef90800000000000000
+      internalID: -6922575734075344290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_4
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1919
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8216ec080a22ff0800000000000000
+      internalID: -62310969751033605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_5
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1919
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42333278c7db821e0800000000000000
+      internalID: -2222318073566514396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_6
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1919
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f127e62d4826c30800000000000000
+      internalID: 4351186229324291869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_7
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1919
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433cedc8a5a86420800000000000000
+      internalID: 2623528927371211586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1663
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de84a52d93f707df0800000000000000
+      internalID: -184507698403194643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1663
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255e2c77560ff3f0800000000000000
+      internalID: -864965630616513245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_10
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1663
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f43da7186e2f3d0800000000000000
+      internalID: -3174221343556939905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_11
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1663
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa62a8485b7ca650800000000000000
+      internalID: 6245502402361977519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1663
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0cc0d30bb71df70800000000000000
+      internalID: 9210278709818081454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_13
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1663
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6702ee0c5738bf020800000000000000
+      internalID: 2376637770139312246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_14
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1662
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12057239ea4438d60800000000000000
+      internalID: 7891226488667066401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_15
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1662
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccfd5f523f5dad20800000000000000
+      internalID: 3291391572630699202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1407
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160b41f9796057030800000000000000
+      internalID: 3491704334374449249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c2b6bc229afa80800000000000000
+      internalID: -8432266631556447338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4b310588ea17650800000000000000
+      internalID: 6228951660112360632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06162a1a6c3a667a0800000000000000
+      internalID: -6384235348240473760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_20
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd82de6a15b333d0800000000000000
+      internalID: -3228037382761443873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_21
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26b2eafe5d5353a0800000000000000
+      internalID: -6677891159942842833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_22
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1b47b376c264e0800000000000000
+      internalID: -1989809885045646720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_23
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1407
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae5862ffcf02c740800000000000000
+      internalID: 5170712707974323874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1151
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aaac45b8dff2790800000000000000
+      internalID: -7552539275212182921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1151
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2079a878fe80bbb50800000000000000
+      internalID: 6609886702960547586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1151
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46466cda5a1d6b570800000000000000
+      internalID: 8482197457714177124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1150
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95710e6567c1a4530800000000000000
+      internalID: 3839912926876014425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1150
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71431b0ecbae47680800000000000000
+      internalID: -8758117278384311273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_29
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1150
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a10cbfdce71910800000000000000
+      internalID: 1808174221088629950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_30
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1150
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcdcd0a6674e16e0800000000000000
+      internalID: -1864974689573741317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_31
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1150
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16720e892c1a38470800000000000000
+      internalID: 8395731987509290849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 894
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b154548f0892b10800000000000000
+      internalID: 1957237316871592731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 895
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5393b3ab29c073530800000000000000
+      internalID: 3834547432058468661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_34
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 895
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea73a4dfb056d5a20800000000000000
+      internalID: 3052707224595609518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_35
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 895
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c0a6ada371b0e50800000000000000
+      internalID: 6776535605848968293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_36
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 895
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd721093e5ecc420800000000000000
+      internalID: 2651747046151847358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_37
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 895
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92afe1529ca722ae0800000000000000
+      internalID: -1575561915296450007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_38
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 895
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd28ab5c14f948a30800000000000000
+      internalID: 4216670255964652255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_39
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 895
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99642cc7fe2759f30800000000000000
+      internalID: 4581694568835204761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_40
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 638
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf5dd6fa20965a0800000000000000
+      internalID: -6527683232411550565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 638
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3912c5b1e8d6040800000000000000
+      internalID: 4642523039049814981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_42
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 639
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d99dc94b3f16600800000000000000
+      internalID: 459916594019671338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_43
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 639
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98441a91c262b3af0800000000000000
+      internalID: -415696569751223159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_44
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 639
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f66c644fcf0190e0800000000000000
+      internalID: -2265011754710046987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_45
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 639
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c248ebb637f37f0800000000000000
+      internalID: -630658516213551988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_46
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 639
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b2af724d335b40800000000000000
+      internalID: 5427749331730085711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_47
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 639
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b050be519ff9640800000000000000
+      internalID: 5089059976484555593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 383
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4f8cf0aace8da0800000000000000
+      internalID: -5940588065674277828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 383
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62977b5c89941d9f0800000000000000
+      internalID: -445493967631976154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 383
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d980c59f712f310800000000000000
+      internalID: 1437237590842973501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_51
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 383
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6166cef2251fac0800000000000000
+      internalID: -3823184242877786421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_52
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 383
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87e9c361e45e0b90800000000000000
+      internalID: -7273783021138221169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_53
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 383
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cd5c53f8a3579b0800000000000000
+      internalID: -5083092217660842880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_54
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 383
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857e134c35c32e80800000000000000
+      internalID: -8204497233524132477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDemon_55
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 383
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5752fca359b5ab630800000000000000
+      internalID: 3943565120211199349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IdleDemon_0: -5619893184594137564
+      IdleDemon_1: 14252277560266627
+      IdleDemon_10: -3174221343556939905
+      IdleDemon_11: 6245502402361977519
+      IdleDemon_12: 9210278709818081454
+      IdleDemon_13: 2376637770139312246
+      IdleDemon_14: 7891226488667066401
+      IdleDemon_15: 3291391572630699202
+      IdleDemon_16: 3491704334374449249
+      IdleDemon_17: -8432266631556447338
+      IdleDemon_18: 6228951660112360632
+      IdleDemon_19: -6384235348240473760
+      IdleDemon_2: 5453829232138583796
+      IdleDemon_20: -3228037382761443873
+      IdleDemon_21: -6677891159942842833
+      IdleDemon_22: -1989809885045646720
+      IdleDemon_23: 5170712707974323874
+      IdleDemon_24: -7552539275212182921
+      IdleDemon_25: 6609886702960547586
+      IdleDemon_26: 8482197457714177124
+      IdleDemon_27: 3839912926876014425
+      IdleDemon_28: -8758117278384311273
+      IdleDemon_29: 1808174221088629950
+      IdleDemon_3: -6922575734075344290
+      IdleDemon_30: -1864974689573741317
+      IdleDemon_31: 8395731987509290849
+      IdleDemon_32: 1957237316871592731
+      IdleDemon_33: 3834547432058468661
+      IdleDemon_34: 3052707224595609518
+      IdleDemon_35: 6776535605848968293
+      IdleDemon_36: 2651747046151847358
+      IdleDemon_37: -1575561915296450007
+      IdleDemon_38: 4216670255964652255
+      IdleDemon_39: 4581694568835204761
+      IdleDemon_4: -62310969751033605
+      IdleDemon_40: -6527683232411550565
+      IdleDemon_41: 4642523039049814981
+      IdleDemon_42: 459916594019671338
+      IdleDemon_43: -415696569751223159
+      IdleDemon_44: -2265011754710046987
+      IdleDemon_45: -630658516213551988
+      IdleDemon_46: 5427749331730085711
+      IdleDemon_47: 5089059976484555593
+      IdleDemon_48: -5940588065674277828
+      IdleDemon_49: -445493967631976154
+      IdleDemon_5: -2222318073566514396
+      IdleDemon_50: 1437237590842973501
+      IdleDemon_51: -3823184242877786421
+      IdleDemon_52: -7273783021138221169
+      IdleDemon_53: -5083092217660842880
+      IdleDemon_54: -8204497233524132477
+      IdleDemon_55: 3943565120211199349
+      IdleDemon_6: 4351186229324291869
+      IdleDemon_7: 2623528927371211586
+      IdleDemon_8: -184507698403194643
+      IdleDemon_9: -864965630616513245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

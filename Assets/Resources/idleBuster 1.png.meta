@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 805699a36292d554aafac7ec8845667b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2971924982822849846
+    second: idleBuster 1_0
+  - first:
+      213: 4204270153845914502
+    second: idleBuster 1_1
+  - first:
+      213: 4662409907868621142
+    second: idleBuster 1_2
+  - first:
+      213: 8967610702943802079
+    second: idleBuster 1_3
+  - first:
+      213: 7473117101596032672
+    second: idleBuster 1_4
+  - first:
+      213: -747884068957402740
+    second: idleBuster 1_5
+  - first:
+      213: -8247826844929664036
+    second: idleBuster 1_6
+  - first:
+      213: 4585395600639896326
+    second: idleBuster 1_7
+  - first:
+      213: 6170711105090815717
+    second: idleBuster 1_8
+  - first:
+      213: 5515996960392369357
+    second: idleBuster 1_9
+  - first:
+      213: -4460006547646886239
+    second: idleBuster 1_10
+  - first:
+      213: -182212456217414010
+    second: idleBuster 1_11
+  - first:
+      213: 219658922304511039
+    second: idleBuster 1_12
+  - first:
+      213: 6220172884412109100
+    second: idleBuster 1_13
+  - first:
+      213: 245268012190057445
+    second: idleBuster 1_14
+  - first:
+      213: 8250681995581604705
+    second: idleBuster 1_15
+  - first:
+      213: 4477004720672991707
+    second: idleBuster 1_16
+  - first:
+      213: 2398278741653431382
+    second: idleBuster 1_17
+  - first:
+      213: -8434211760972177883
+    second: idleBuster 1_18
+  - first:
+      213: -8889919386936663105
+    second: idleBuster 1_19
+  - first:
+      213: -6771492635243891928
+    second: idleBuster 1_20
+  - first:
+      213: 1392906197282234286
+    second: idleBuster 1_21
+  - first:
+      213: -3499425132168768586
+    second: idleBuster 1_22
+  - first:
+      213: 6967772224707650309
+    second: idleBuster 1_23
+  - first:
+      213: 8920063656367840777
+    second: idleBuster 1_24
+  - first:
+      213: 8234888336360787215
+    second: idleBuster 1_25
+  - first:
+      213: 5795716428917040609
+    second: idleBuster 1_26
+  - first:
+      213: -2898937607189605311
+    second: idleBuster 1_27
+  - first:
+      213: -1394221341364456617
+    second: idleBuster 1_28
+  - first:
+      213: 6965340898909215176
+    second: idleBuster 1_29
+  - first:
+      213: 4849127792941071353
+    second: idleBuster 1_30
+  - first:
+      213: -2704106178006614562
+    second: idleBuster 1_31
+  - first:
+      213: -4792508327520618810
+    second: idleBuster 1_32
+  - first:
+      213: -7552828735055640356
+    second: idleBuster 1_33
+  - first:
+      213: -416213040177104435
+    second: idleBuster 1_34
+  - first:
+      213: -7436260241222518122
+    second: idleBuster 1_35
+  - first:
+      213: -2825137579175584177
+    second: idleBuster 1_36
+  - first:
+      213: 6553788096511242133
+    second: idleBuster 1_37
+  - first:
+      213: -3687186043793619681
+    second: idleBuster 1_38
+  - first:
+      213: 4926564357654025948
+    second: idleBuster 1_39
+  - first:
+      213: 5343407589887365637
+    second: idleBuster 1_40
+  - first:
+      213: 943644717902230245
+    second: idleBuster 1_41
+  - first:
+      213: -8589313662183913169
+    second: idleBuster 1_42
+  - first:
+      213: 8710024002059611372
+    second: idleBuster 1_43
+  - first:
+      213: -3562353171243966571
+    second: idleBuster 1_44
+  - first:
+      213: 4306419291011126349
+    second: idleBuster 1_45
+  - first:
+      213: 2069823580980155566
+    second: idleBuster 1_46
+  - first:
+      213: -3503575659622598564
+    second: idleBuster 1_47
+  - first:
+      213: -1560509178797605707
+    second: idleBuster 1_48
+  - first:
+      213: -8825583837739070555
+    second: idleBuster 1_49
+  - first:
+      213: -7050277082875925874
+    second: idleBuster 1_50
+  - first:
+      213: 8611259391467337868
+    second: idleBuster 1_51
+  - first:
+      213: 8187704800077096960
+    second: idleBuster 1_52
+  - first:
+      213: -8829022928287783395
+    second: idleBuster 1_53
+  - first:
+      213: 3343041476399208417
+    second: idleBuster 1_54
+  - first:
+      213: -1826133328420568183
+    second: idleBuster 1_55
+  - first:
+      213: 6826060832157584843
+    second: idleBuster 1_56
+  - first:
+      213: 7769844221397444910
+    second: idleBuster 1_57
+  - first:
+      213: -917374180787518152
+    second: idleBuster 1_58
+  - first:
+      213: -122806816388574168
+    second: idleBuster 1_59
+  - first:
+      213: 8537530666039359604
+    second: idleBuster 1_60
+  - first:
+      213: -7673144404969313583
+    second: idleBuster 1_61
+  - first:
+      213: -2807761531770745605
+    second: idleBuster 1_62
+  - first:
+      213: -6980102680646147875
+    second: idleBuster 1_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idleBuster 1_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1918
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dc344a6066e3920800000000000000
+      internalID: 2971924982822849846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1918
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b33c30e61985a30800000000000000
+      internalID: 4204270153845914502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1918
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65955c3db1534b040800000000000000
+      internalID: 4662409907868621142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1918
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2d4f00c6a537c70800000000000000
+      internalID: 8967610702943802079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1918
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae378dd868d5b760800000000000000
+      internalID: 7473117101596032672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1918
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89ce98d66bfe95f0800000000000000
+      internalID: -747884068957402740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1918
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5903fe25d98d80800000000000000
+      internalID: -8247826844929664036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1918
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ba7ca110992af30800000000000000
+      internalID: 4585395600639896326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1662
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e60f766e05c2a550800000000000000
+      internalID: 6170711105090815717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1662
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4525ea202cc8c40800000000000000
+      internalID: 5515996960392369357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1662
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae479fccafda12c0800000000000000
+      internalID: -4460006547646886239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1662
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68672898cb6a87df0800000000000000
+      internalID: -182212456217414010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1662
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c94b340a26c0300800000000000000
+      internalID: 219658922304511039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1662
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2196e0584e725650800000000000000
+      internalID: 6220172884412109100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1662
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ca5525fd576300800000000000000
+      internalID: 245268012190057445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1662
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634a5d9f8f408270800000000000000
+      internalID: 8250681995581604705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1406
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e571c214812e30800000000000000
+      internalID: 4477004720672991707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1406
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654af941fc5684120800000000000000
+      internalID: 2398278741653431382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1406
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed4daf619a3fa80800000000000000
+      internalID: -8434211760972177883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_19
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1406
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb328cb1b69a0a480800000000000000
+      internalID: -8889919386936663105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_20
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1406
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233d1d3353d602a0800000000000000
+      internalID: -6771492635243891928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_21
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1406
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf92767ec8945310800000000000000
+      internalID: 1392906197282234286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_22
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1406
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3910f026b8f6fc0800000000000000
+      internalID: -3499425132168768586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_23
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1406
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5036889ebef72b060800000000000000
+      internalID: 6967772224707650309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5dab82ae6acb70800000000000000
+      internalID: 8920063656367840777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dcac5cf43384270800000000000000
+      internalID: 8234888336360787215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ee7492658e6050800000000000000
+      internalID: 5795716428917040609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_27
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14451710b97e4c7d0800000000000000
+      internalID: -2898937607189605311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753f3b1b31bb6ace0800000000000000
+      internalID: -1394221341364456617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_29
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9dbf2c4acd9a060800000000000000
+      internalID: 6965340898909215176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_30
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbf9b039009b4340800000000000000
+      internalID: 4849127792941071353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_31
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1150
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf9f012c5197ad0800000000000000
+      internalID: -2704106178006614562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 894
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6380361179d7db0800000000000000
+      internalID: -4792508327520618810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 894
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd845a53846fe2790800000000000000
+      internalID: -7552828735055640356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_34
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 894
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9bb55f170593af0800000000000000
+      internalID: -416213040177104435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 894
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a3298a5b81dc890800000000000000
+      internalID: -7436260241222518122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_36
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 894
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed1a707581bc8d0800000000000000
+      internalID: -2825137579175584177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_37
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 894
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f6cb1ec8bb3fa50800000000000000
+      internalID: 6553788096511242133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_38
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 894
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1547e624db74dcc0800000000000000
+      internalID: -3687186043793619681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_39
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 894
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd691156e2cae5440800000000000000
+      internalID: 4926564357654025948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 638
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502dc5574e8972a40800000000000000
+      internalID: 5343407589887365637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 638
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e27cbc0fdf781d00800000000000000
+      internalID: 943644717902230245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_42
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 638
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294e1d7bb0acc880800000000000000
+      internalID: -8589313662183913169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 638
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca3e3aea830e870800000000000000
+      internalID: 8710024002059611372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_44
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 638
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f54873aaaff8ec0800000000000000
+      internalID: -3562353171243966571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 638
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d449b9e578973cb30800000000000000
+      internalID: 4306419291011126349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_46
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 638
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea49c0c949d79bc10800000000000000
+      internalID: 2069823580980155566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 638
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c587d74108cc06fc0800000000000000
+      internalID: -3503575659622598564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 382
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc38097b25f75ae0800000000000000
+      internalID: -1560509178797605707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 382
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab4220724a358580800000000000000
+      internalID: -8825583837739070555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 382
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a6a1bd852682e90800000000000000
+      internalID: -7050277082875925874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_51
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 382
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c883829cac6518770800000000000000
+      internalID: 8611259391467337868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_52
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 382
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0082b56a22290a170800000000000000
+      internalID: 8187704800077096960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_53
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 382
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16a0a5cc62097580800000000000000
+      internalID: -8829022928287783395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_54
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 382
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e71c26b28ed46e20800000000000000
+      internalID: 3343041476399208417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_55
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 382
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838dfeb96548a6e0800000000000000
+      internalID: -1826133328420568183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 126
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc5fb292a0bbe50800000000000000
+      internalID: 6826060832157584843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 126
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e292488272804db60800000000000000
+      internalID: 7769844221397444910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_58
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 126
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8358b040b05d443f0800000000000000
+      internalID: -917374180787518152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_59
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 126
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8249925e9d3bb4ef0800000000000000
+      internalID: -122806816388574168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_60
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 126
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b74038e66b7670800000000000000
+      internalID: 8537530666039359604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_61
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 126
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da278751d3838590800000000000000
+      internalID: -7673144404969313583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_62
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 126
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc4cc453c3d809d0800000000000000
+      internalID: -2807761531770745605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleBuster 1_63
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 126
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a5581891b12f90800000000000000
+      internalID: -6980102680646147875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idleBuster 1_0: 2971924982822849846
+      idleBuster 1_1: 4204270153845914502
+      idleBuster 1_10: -4460006547646886239
+      idleBuster 1_11: -182212456217414010
+      idleBuster 1_12: 219658922304511039
+      idleBuster 1_13: 6220172884412109100
+      idleBuster 1_14: 245268012190057445
+      idleBuster 1_15: 8250681995581604705
+      idleBuster 1_16: 4477004720672991707
+      idleBuster 1_17: 2398278741653431382
+      idleBuster 1_18: -8434211760972177883
+      idleBuster 1_19: -8889919386936663105
+      idleBuster 1_2: 4662409907868621142
+      idleBuster 1_20: -6771492635243891928
+      idleBuster 1_21: 1392906197282234286
+      idleBuster 1_22: -3499425132168768586
+      idleBuster 1_23: 6967772224707650309
+      idleBuster 1_24: 8920063656367840777
+      idleBuster 1_25: 8234888336360787215
+      idleBuster 1_26: 5795716428917040609
+      idleBuster 1_27: -2898937607189605311
+      idleBuster 1_28: -1394221341364456617
+      idleBuster 1_29: 6965340898909215176
+      idleBuster 1_3: 8967610702943802079
+      idleBuster 1_30: 4849127792941071353
+      idleBuster 1_31: -2704106178006614562
+      idleBuster 1_32: -4792508327520618810
+      idleBuster 1_33: -7552828735055640356
+      idleBuster 1_34: -416213040177104435
+      idleBuster 1_35: -7436260241222518122
+      idleBuster 1_36: -2825137579175584177
+      idleBuster 1_37: 6553788096511242133
+      idleBuster 1_38: -3687186043793619681
+      idleBuster 1_39: 4926564357654025948
+      idleBuster 1_4: 7473117101596032672
+      idleBuster 1_40: 5343407589887365637
+      idleBuster 1_41: 943644717902230245
+      idleBuster 1_42: -8589313662183913169
+      idleBuster 1_43: 8710024002059611372
+      idleBuster 1_44: -3562353171243966571
+      idleBuster 1_45: 4306419291011126349
+      idleBuster 1_46: 2069823580980155566
+      idleBuster 1_47: -3503575659622598564
+      idleBuster 1_48: -1560509178797605707
+      idleBuster 1_49: -8825583837739070555
+      idleBuster 1_5: -747884068957402740
+      idleBuster 1_50: -7050277082875925874
+      idleBuster 1_51: 8611259391467337868
+      idleBuster 1_52: 8187704800077096960
+      idleBuster 1_53: -8829022928287783395
+      idleBuster 1_54: 3343041476399208417
+      idleBuster 1_55: -1826133328420568183
+      idleBuster 1_56: 6826060832157584843
+      idleBuster 1_57: 7769844221397444910
+      idleBuster 1_58: -917374180787518152
+      idleBuster 1_59: -122806816388574168
+      idleBuster 1_6: -8247826844929664036
+      idleBuster 1_60: 8537530666039359604
+      idleBuster 1_61: -7673144404969313583
+      idleBuster 1_62: -2807761531770745605
+      idleBuster 1_63: -6980102680646147875
+      idleBuster 1_7: 4585395600639896326
+      idleBuster 1_8: 6170711105090815717
+      idleBuster 1_9: 5515996960392369357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

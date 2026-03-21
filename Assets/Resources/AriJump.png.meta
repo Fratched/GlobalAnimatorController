@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: ae559ecc5302aee4d9df88a764eedf13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8067962366587965773
+    second: AriJump_0
+  - first:
+      213: 4808171120641560043
+    second: AriJump_1
+  - first:
+      213: 717694044567716145
+    second: AriJump_2
+  - first:
+      213: -6382922507644115408
+    second: AriJump_3
+  - first:
+      213: -933962364224771627
+    second: AriJump_4
+  - first:
+      213: 99029803155706912
+    second: AriJump_5
+  - first:
+      213: 2007960571346732426
+    second: AriJump_6
+  - first:
+      213: -5037015104822645945
+    second: AriJump_7
+  - first:
+      213: -38514302760285644
+    second: AriJump_8
+  - first:
+      213: -6221200406148419587
+    second: AriJump_9
+  - first:
+      213: -826527712446617174
+    second: AriJump_10
+  - first:
+      213: 7619042944930709559
+    second: AriJump_11
+  - first:
+      213: 1736733392950999248
+    second: AriJump_12
+  - first:
+      213: -438816417675048952
+    second: AriJump_13
+  - first:
+      213: -7401479847478341748
+    second: AriJump_14
+  - first:
+      213: -7843723028041179948
+    second: AriJump_15
+  - first:
+      213: -5728339855292540869
+    second: AriJump_16
+  - first:
+      213: -7970096303032072539
+    second: AriJump_17
+  - first:
+      213: 9116587772164890877
+    second: AriJump_18
+  - first:
+      213: 6286648684495357793
+    second: AriJump_19
+  - first:
+      213: -4732089718974153091
+    second: AriJump_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AriJump_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1919
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4112b9c60927ff60800000000000000
+      internalID: 8067962366587965773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1915
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc121d82e0ab240800000000000000
+      internalID: 4808171120641560043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1913
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1314fd75ee2c5f900800000000000000
+      internalID: 717694044567716145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1916
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e6072ccd4b67a0800000000000000
+      internalID: -6382922507644115408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1916
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d96cc69d26e903f0800000000000000
+      internalID: -933962364224771627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_5
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1916
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024d54fc413df5100800000000000000
+      internalID: 99029803155706912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_6
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1916
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85cc124085bddb10800000000000000
+      internalID: 2007960571346732426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1917
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be4cc037de81ab0800000000000000
+      internalID: -5037015104822645945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1661
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a8339127b277ff0800000000000000
+      internalID: -38514302760285644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1662
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe103213bd9a9a0800000000000000
+      internalID: -6221200406148419587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1662
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa96a96bc659784f0800000000000000
+      internalID: -826527712446617174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1662
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7308a05e0374cb960800000000000000
+      internalID: 7619042944930709559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1662
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8376cb1dd1a1810800000000000000
+      internalID: 1736733392950999248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1662
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088ed60bc209e9f0800000000000000
+      internalID: -438816417675048952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1662
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f47de1b49a84990800000000000000
+      internalID: -7401479847478341748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1662
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcdd0db67f752390800000000000000
+      internalID: -7843723028041179948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1406
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38539c6049d080b0800000000000000
+      internalID: -5728339855292540869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1406
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a68e18c3a7846190800000000000000
+      internalID: -7970096303032072539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1407
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ee8be640a48e70800000000000000
+      internalID: 9116587772164890877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1407
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167c503aba9ae3750800000000000000
+      internalID: 6286648684495357793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AriJump_20
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1407
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e7447e87d345eb0800000000000000
+      internalID: -4732089718974153091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AriJump_0: 8067962366587965773
+      AriJump_1: 4808171120641560043
+      AriJump_10: -826527712446617174
+      AriJump_11: 7619042944930709559
+      AriJump_12: 1736733392950999248
+      AriJump_13: -438816417675048952
+      AriJump_14: -7401479847478341748
+      AriJump_15: -7843723028041179948
+      AriJump_16: -5728339855292540869
+      AriJump_17: -7970096303032072539
+      AriJump_18: 9116587772164890877
+      AriJump_19: 6286648684495357793
+      AriJump_2: 717694044567716145
+      AriJump_20: -4732089718974153091
+      AriJump_3: -6382922507644115408
+      AriJump_4: -933962364224771627
+      AriJump_5: 99029803155706912
+      AriJump_6: 2007960571346732426
+      AriJump_7: -5037015104822645945
+      AriJump_8: -38514302760285644
+      AriJump_9: -6221200406148419587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
