@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: d073a6e02d7edba4f9f0faeec513c19c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5886124708060084071
+    second: IdleTestGuy_0
+  - first:
+      213: 4155856569363218942
+    second: IdleTestGuy_1
+  - first:
+      213: 3408854975299208515
+    second: IdleTestGuy_2
+  - first:
+      213: -1587595849289113141
+    second: IdleTestGuy_3
+  - first:
+      213: -5970536963361999687
+    second: IdleTestGuy_4
+  - first:
+      213: -2444591611283503029
+    second: IdleTestGuy_5
+  - first:
+      213: 3299992875057508689
+    second: IdleTestGuy_6
+  - first:
+      213: -975745216035932321
+    second: IdleTestGuy_7
+  - first:
+      213: -6676454882629234938
+    second: IdleTestGuy_8
+  - first:
+      213: -4546541982070556798
+    second: IdleTestGuy_9
+  - first:
+      213: -4775116579326080545
+    second: IdleTestGuy_10
+  - first:
+      213: 1869259588254535089
+    second: IdleTestGuy_11
+  - first:
+      213: -6202523438735916268
+    second: IdleTestGuy_12
+  - first:
+      213: -5817082451872777863
+    second: IdleTestGuy_13
+  - first:
+      213: 8274815851963702819
+    second: IdleTestGuy_14
+  - first:
+      213: -917028076629124438
+    second: IdleTestGuy_15
+  - first:
+      213: -7263007086541171958
+    second: IdleTestGuy_16
+  - first:
+      213: 6491094397912530856
+    second: IdleTestGuy_17
+  - first:
+      213: -8540522348366394053
+    second: IdleTestGuy_18
+  - first:
+      213: 5319384123128020271
+    second: IdleTestGuy_19
+  - first:
+      213: -776533684597831141
+    second: IdleTestGuy_20
+  - first:
+      213: 6839847222928157955
+    second: IdleTestGuy_21
+  - first:
+      213: -8397918559983301210
+    second: IdleTestGuy_22
+  - first:
+      213: -2890857107046135022
+    second: IdleTestGuy_23
+  - first:
+      213: 8927236965568301148
+    second: IdleTestGuy_24
+  - first:
+      213: -1247816684788983040
+    second: IdleTestGuy_25
+  - first:
+      213: 4986845945602189333
+    second: IdleTestGuy_26
+  - first:
+      213: 1826747880658200035
+    second: IdleTestGuy_27
+  - first:
+      213: -851282202206764945
+    second: IdleTestGuy_28
+  - first:
+      213: -1129654317461608808
+    second: IdleTestGuy_29
+  - first:
+      213: -8596298272031738274
+    second: IdleTestGuy_30
+  - first:
+      213: -24599054092807766
+    second: IdleTestGuy_31
+  - first:
+      213: 4783701824024796715
+    second: IdleTestGuy_32
+  - first:
+      213: 6223834346100682496
+    second: IdleTestGuy_33
+  - first:
+      213: -2378896712296207779
+    second: IdleTestGuy_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleTestGuy_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1916
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998cd6893c8405ea0800000000000000
+      internalID: -5886124708060084071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1916
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef14e5af7819ca930800000000000000
+      internalID: 4155856569363218942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1916
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34548850a8fae4f20800000000000000
+      internalID: 3408854975299208515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1916
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ec3c8cf9b7f9e0800000000000000
+      internalID: -1587595849289113141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1916
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f77cd344642da0800000000000000
+      internalID: -5970536963361999687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_5
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1916
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b480c8ca1e0131ed0800000000000000
+      internalID: -2444591611283503029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1916
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517f17290eebcd20800000000000000
+      internalID: 3299992875057508689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_7
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1916
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5734ee45e47572f0800000000000000
+      internalID: -975745216035932321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1660
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f46f958a77853a0800000000000000
+      internalID: -6676454882629234938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1660
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287b84ae72077e0c0800000000000000
+      internalID: -4546541982070556798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1660
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c03055c06bbdb0800000000000000
+      internalID: -4775116579326080545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_11
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1660
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd87e611b1f0f910800000000000000
+      internalID: 1869259588254535089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1660
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4138c1b7bc53ce9a0800000000000000
+      internalID: -6202523438735916268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_13
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1660
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f6fa8452954fa0800000000000000
+      internalID: -5817082451872777863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_14
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1660
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e511eec2d06d270800000000000000
+      internalID: 8274815851963702819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_15
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1660
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa167ba2df0643f0800000000000000
+      internalID: -917028076629124438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1404
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03919d298d943b90800000000000000
+      internalID: -7263007086541171958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1404
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afba1fa6fff41a50800000000000000
+      internalID: 6491094397912530856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1404
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d065d7c28f97980800000000000000
+      internalID: -8540522348366394053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1404
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df5ea3daf32d940800000000000000
+      internalID: 5319384123128020271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_20
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1404
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acb656ab23935f0800000000000000
+      internalID: -776533684597831141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_21
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1404
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d23986fc40cee50800000000000000
+      internalID: 6839847222928157955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_22
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1404
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad09835099947b80800000000000000
+      internalID: -8397918559983301210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_23
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1404
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0a1e07cc91e7d0800000000000000
+      internalID: -2890857107046135022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1148
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c584f6eb8bae3eb70800000000000000
+      internalID: 8927236965568301148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bd85e165ddeaee0800000000000000
+      internalID: -1247816684788983040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_26
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518273157f5d43540800000000000000
+      internalID: 4986845945602189333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e564d8d489e95910800000000000000
+      internalID: 1826747880658200035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_28
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f608adde853af24f0800000000000000
+      internalID: -851282202206764945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_29
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e6b82269a250f0800000000000000
+      internalID: -1129654317461608808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_30
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567e384440d3b880800000000000000
+      internalID: -8596298272031738274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_31
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1148
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1dcf66a4b98aff0800000000000000
+      internalID: -24599054092807766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 892
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed26cb67f136240800000000000000
+      internalID: 4783701824024796715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 892
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe43ccc508f5650800000000000000
+      internalID: 6223834346100682496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleTestGuy_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 892
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a6d3a4b067cfed0800000000000000
+      internalID: -2378896712296207779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IdleTestGuy_0: -5886124708060084071
+      IdleTestGuy_1: 4155856569363218942
+      IdleTestGuy_10: -4775116579326080545
+      IdleTestGuy_11: 1869259588254535089
+      IdleTestGuy_12: -6202523438735916268
+      IdleTestGuy_13: -5817082451872777863
+      IdleTestGuy_14: 8274815851963702819
+      IdleTestGuy_15: -917028076629124438
+      IdleTestGuy_16: -7263007086541171958
+      IdleTestGuy_17: 6491094397912530856
+      IdleTestGuy_18: -8540522348366394053
+      IdleTestGuy_19: 5319384123128020271
+      IdleTestGuy_2: 3408854975299208515
+      IdleTestGuy_20: -776533684597831141
+      IdleTestGuy_21: 6839847222928157955
+      IdleTestGuy_22: -8397918559983301210
+      IdleTestGuy_23: -2890857107046135022
+      IdleTestGuy_24: 8927236965568301148
+      IdleTestGuy_25: -1247816684788983040
+      IdleTestGuy_26: 4986845945602189333
+      IdleTestGuy_27: 1826747880658200035
+      IdleTestGuy_28: -851282202206764945
+      IdleTestGuy_29: -1129654317461608808
+      IdleTestGuy_3: -1587595849289113141
+      IdleTestGuy_30: -8596298272031738274
+      IdleTestGuy_31: -24599054092807766
+      IdleTestGuy_32: 4783701824024796715
+      IdleTestGuy_33: 6223834346100682496
+      IdleTestGuy_34: -2378896712296207779
+      IdleTestGuy_4: -5970536963361999687
+      IdleTestGuy_5: -2444591611283503029
+      IdleTestGuy_6: 3299992875057508689
+      IdleTestGuy_7: -975745216035932321
+      IdleTestGuy_8: -6676454882629234938
+      IdleTestGuy_9: -4546541982070556798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
