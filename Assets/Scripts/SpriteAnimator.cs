@@ -3,6 +3,7 @@ using UnityEngine;
 using System.Linq;
 
 [System.Serializable]
+
 public class SpriteAnimationOptions
 {
     public Texture2D spritesheetTexture;
@@ -17,7 +18,7 @@ public enum SpriteState
     Jump,
     Attack
 }
-
+[RequireComponent(typeof(SpriteRenderer))]
 public class SpriteAnimator : MonoBehaviour
 {
     [Header("Animation Options")] public SpriteAnimationOptions idle;
@@ -66,7 +67,7 @@ public class SpriteAnimator : MonoBehaviour
         {
             if (options[i] == null || options[i].spritesheetTexture == null)
             {
-                Debug.LogError($"[SpriteAnimator] Missing texture for state {(SpriteState)i} on {gameObject.name}");
+              
                 continue;
             }
 
@@ -81,8 +82,7 @@ public class SpriteAnimator : MonoBehaviour
 
             if (sprites == null || sprites.Length == 0)
             {
-                Debug.LogError(
-                    $"[SpriteAnimator] No sprites found for state {(SpriteState)i} using texture {options[i].spritesheetTexture.name} on {gameObject.name}");
+               
                 continue;
             }
 
@@ -155,6 +155,7 @@ public class SpriteAnimator : MonoBehaviour
             spriteRenderer.sprite = frames[currentFrame];
         }
     }
+
 
     // ✅ Manual jump trigger
     public void TriggerJump()

@@ -3,6 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(SpriteAnimator))]
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(BoxCollider2D))]
+
 public class UniversalCharacterController : MonoBehaviour
 {
     private SpriteAnimator animator;
