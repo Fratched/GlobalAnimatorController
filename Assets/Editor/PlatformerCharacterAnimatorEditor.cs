@@ -1,14 +1,14 @@
 using UnityEngine;
 using UnityEditor;
 
-[CustomEditor(typeof(SpriteAnimator))]
-public class SpriteAnimatorEditor : Editor
+[CustomEditor(typeof(PlatformerCharacterAnimator))]
+public class PlatformerCharacterAnimatorEditor : Editor
 {
-    public override void OnInspectorGUI()
+    public override void OnInspectorGUI() 
     {
         DrawDefaultInspector();
 
-        SpriteAnimator animator = (SpriteAnimator)target;
+        PlatformerCharacterAnimator animator = (PlatformerCharacterAnimator)target;
 
         GUILayout.Space(10);
 
@@ -18,7 +18,7 @@ public class SpriteAnimatorEditor : Editor
         }
     }
 
-    private void SetupAnimator(SpriteAnimator animator)
+    private void SetupAnimator(PlatformerCharacterAnimator animator)
     {
         SpriteRenderer sr = animator.GetComponent<SpriteRenderer>();
         if (sr == null)
@@ -28,11 +28,11 @@ public class SpriteAnimatorEditor : Editor
         }
 
         // Force reload animations
-        var method = typeof(SpriteAnimator).GetMethod("LoadAllStates", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+        var method = typeof(PlatformerCharacterAnimator).GetMethod("LoadAllStates", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
         method.Invoke(animator, null);
 
         // Get Idle state (index 0)
-        var statesField = typeof(SpriteAnimator).GetField("states", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+        var statesField = typeof(PlatformerCharacterAnimator).GetField("states", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
         Sprite[][] states = (Sprite[][])statesField.GetValue(animator);
 
         if (states != null && states.Length > 0 && states[0] != null && states[0].Length > 0)
@@ -46,7 +46,7 @@ public class SpriteAnimatorEditor : Editor
         EditorUtility.SetDirty(animator);
     }
 
-    private void ResizeCollider(SpriteAnimator animator, Sprite sprite)
+    private void ResizeCollider(PlatformerCharacterAnimator animator, Sprite sprite)
     {
         BoxCollider2D box = animator.GetComponent<BoxCollider2D>();
 
